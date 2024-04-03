@@ -25,3 +25,9 @@ nav ul li a{
     color: black;
     text-decoration: none;
 }
+#pic {
+    border-radius: 20px 20px 20px 20px ;
+    height: 400px;
+    width: 300px;
+    position: absolute;
+}
