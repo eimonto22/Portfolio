@@ -9,6 +9,7 @@ header {
     align-items: center;
     justify-content: space-between;
     padding: 10px 0;
+    border: solid 10px black;
 }
 nav ul {
     list-style: none;
