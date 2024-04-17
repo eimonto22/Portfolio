@@ -33,4 +33,27 @@ nav ul li a{
     border-radius: 20px 20px 20px 20px;
     height: 375px;
     width: 250px;
+    margin-top: 10px;
+}
+
+#about-me {
+    justify-content: center;
+    text-align: center;
+    
+}
+
+#contact-me {
+    border: solid 20px red;
+    margin-top: 10px;
+}
+p {
+    border: solid black;
+}
+
+#work {
+    margin-top: 20px;
+}
+
+#resume {
+    margin-top: 50px;
 }
